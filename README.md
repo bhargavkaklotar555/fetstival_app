@@ -22,5 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/bhargavkaklotar555/fetstival_app/assets/130822397/8b617410-c308-412c-850c-e2af0ff92381" alt="How example looks" width="300" height="630">
 <img src="https://github.com/bhargavkaklotar555/fetstival_app/assets/130822397/7f0d8bc4-6756-4073-b762-ffef3e9ebfa8" alt="How example looks" width="300" height="630">
 <img src="https://github.com/bhargavkaklotar555/fetstival_app/assets/130822397/35303659-25bc-4d30-bd38-761d2a95e7e8" alt="How example looks" width="300" height="630">
+Final output
 <img src="https://github.com/bhargavkaklotar555/fetstival_app/assets/130822397/777a4167-d015-4ca1-abee-f9d3279389ba" alt="How example looks" width="300" height="300">
 
