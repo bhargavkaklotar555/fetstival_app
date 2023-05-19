@@ -25,5 +25,6 @@ For help getting started with Flutter development, view the
 <img src="https://github.com/bhargavkaklotar555/fetstival_app/assets/130822397/35303659-25bc-4d30-bd38-761d2a95e7e8" height=400></img>
 
 output
+
 <img src="https://github.com/bhargavkaklotar555/fetstival_app/assets/130822397/777a4167-d015-4ca1-abee-f9d3279389ba" height=400></img>
 
